@@ -1,0 +1,14 @@
+html, body, #map-canvas {
+ height: 100%; 
+ margin: 0; 
+ padding: 0;
+}
+#content{
+  position: center;
+  left: 1px; 
+  top: 1px; 
+  border-radius: 5px;
+  width: 696px;
+  height: 219px; 
+  background-color: #EEEEEE;
+}
